@@ -1,21 +1,15 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_smart_kitchen_dock (0.0.1):
-    - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - flutter_smart_kitchen_dock (from `.symlinks/plugins/flutter_smart_kitchen_dock/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  flutter_smart_kitchen_dock:
-    :path: ".symlinks/plugins/flutter_smart_kitchen_dock/ios"
 
 SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  flutter_smart_kitchen_dock: 21a390613bdc385a92c0b62de4b8484e63980f48
 
 PODFILE CHECKSUM: cc1f88378b4bfcf93a6ce00d2c587857c6008d3b
 

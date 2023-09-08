@@ -35,9 +35,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  # quick_blue: ^0.4.1+1
-  flutter_smart_kitchen_dock:
-    git: https://github.com/KitchenStories/flutter_smart_kitchen_dock
   logging: ^1.2.0
 
 dev_dependencies:
